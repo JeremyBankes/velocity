@@ -1,0 +1,12 @@
+#textContainer {
+    font-family: monospace;
+    font-size: var(--font-size-large);
+}
+
+.wordDone {
+    color: gray;
+}
+
+.wordCurrent {
+    font-weight: bold;
+}
